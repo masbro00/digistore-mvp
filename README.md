@@ -2,9 +2,6 @@
 
 DigiStore adalah platform web sederhana (Minimum Viable Product) untuk menjual dan mendistribusikan produk digital (Aset Digital, E-Book, Template, dll). Aplikasi ini memungkinkan Admin untuk mengunggah file berukuran besar, dan User untuk mengklaim serta mengunduh file tersebut.
 
-# Link App
-URL : https://noneliminatory-urbanistically-lori.ngrok-free.dev/
-
 ## 🚀 Fitur Utama
 - **Public Catalog:** Menampilkan daftar produk digital yang tersedia.
 - **Sistem Transaksi:** User dapat mengklaim (membeli) produk untuk dimasukkan ke dalam koleksi pribadinya.
