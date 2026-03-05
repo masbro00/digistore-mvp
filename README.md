@@ -119,7 +119,5 @@ Buka `http://127.0.0.1:8000` di browser Anda.
 
 *Dibuat oleh*
 
-```
 Ganendra-Universitas Amikom Yogyakarta
----
 
